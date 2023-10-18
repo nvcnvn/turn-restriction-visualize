@@ -1,0 +1,13 @@
+.leaflet-control-zoom a {
+	width: 60px !important;
+	height: 60px !important;
+	}
+
+#progress {
+	margin: 10px 0 0 130px !important;
+}
+
+#infobutton {
+	margin: 10px 0 0 88px !important;
+}
+
